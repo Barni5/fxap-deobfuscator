@@ -36,7 +36,7 @@ That's it! Once configured, the tool is ready to use.
 ## ✅ Requirements
 
 - Java (automatically prompted on first run if not installed)
-- Internet connection for the Discord bot and license verification
+- Internet connection for the Discord bot and a cfx license key that owns the resource you want to decrypt
 - windows server
 
 
